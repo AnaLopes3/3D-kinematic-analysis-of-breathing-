@@ -81,7 +81,6 @@ Calculated from the **non-normalized** cycle.
 ## Step 6 - Geometric visualization
 
 - Animation of the 32-marker movement in `.mp4`: `create_animation.m`
-- Animation of the 89-marker movement in `.mp4`: **to do**
 
 ---
 
@@ -99,12 +98,4 @@ Calculated from the **non-normalized** cycle.
 | `var_derived_time.m` | Variables | Temporal variables and Tlag |
 | `create_animation.m` | Visualization | `.mp4` animation of the 32-marker model |
 
-## To do
 
-- [ ] `.mp4` animation for the 89-marker model
-- [ ] Add usage examples and test data
-- [ ] Choose a project license
-
-## How to cite
-
-Article in preparation: *Breathing Toolbox*. Update this section with the full reference once it is published.
