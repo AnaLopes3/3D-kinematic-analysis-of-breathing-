@@ -99,12 +99,4 @@ Calculadas a partir do ciclo **não normalizado**.
 | `var_derived_time.m` | Variáveis | Variáveis temporais e Tlag |
 | `create_animation.m` | Visualização | Animação `.mp4` do modelo de 32 marcadores |
 
-## A fazer
 
-- [ ] Animação `.mp4` para o modelo de 89 marcadores
-- [ ] Adicionar exemplos de uso e dados de teste
-- [ ] Definir a licença do projeto
-
-## Como citar
-
-Artigo em preparação: *Breathing Toolbox*. Atualize esta seção com a referência completa quando for publicado.
